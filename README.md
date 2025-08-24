@@ -1,2 +1,2 @@
 # Python-YouTube-Transcript
-Script to fetch a YouTube video's transcript
+Fetch YouTube transcript (captions) using [youtube-transcript-api](https://pypi.org/project/youtube-transcript-api/)
